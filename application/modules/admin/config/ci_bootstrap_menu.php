@@ -33,14 +33,7 @@ $config['ci_bootstrap_menu'] = array(
     )
 );
 
-
-
-
-// 				$config['ci_bootstrap_menu']['menu']['Create Account'] = array(
-//					'name' => 'Create Account',
-//					'url' => 'account',
-//					'icon' => 'fa fa-cube',
-//				);           
+   
 
 
 $config['ci_bootstrap_menu']['menu']['Account'] = array(
